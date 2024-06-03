@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/antic</item>
+        <item>@font/coming_soon</item>
+        <item>@font/happy_monkey</item>
+        <item>@font/julius_sans_one</item>
+        <item>@font/kodchasan</item>
+        <item>@font/montserrat_light</item>
+        <item>@font/quicksand</item>
+        <item>@font/spinnaker</item>
+        <item>@font/tenor_sans</item>
+    </array>
+</resources>
